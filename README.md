@@ -43,7 +43,7 @@ Here's a walkthrough of implemented required features:
 video link:https://www.canva.com/design/DAGSBdAm-9M/X7P2s_cLbAbe0Q9iXgY1Pw/watch?utm_content=DAGSBdAm-9M&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 <img src='https://www.canva.com/design/DAGSBdAm-9M/X7P2s_cLbAbe0Q9iXgY1Pw/watch?utm_content=DAGSBdAm-9M&utm_campaign=designshare&utm_medium=link&utm_source=editor' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://submissions.us-east-1.linodeobjects.com/web103/YOf1vjm8.gif' title='gif_Video Walkthrough' width='' alt='Video Walkthrough' />
 <!-- canvas -->
 GIF created with ...  Add GIF tool here
 <!-- Recommended tools:
