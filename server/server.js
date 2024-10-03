@@ -1,4 +1,5 @@
 import express from 'express'
+import './config/dotenv.js'; // Loads environment variables
 import path from 'path'
 import { fileURLToPath } from 'url';
  import businessGuideRouter from './routes/businessguide.js';
