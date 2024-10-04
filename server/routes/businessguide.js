@@ -2,12 +2,14 @@ import express from 'express'
 import path from 'path'
 import { fileURLToPath } from 'url'
 import businessData from '../data/businessguide.js'
+import businesController from '../controllers/business.js'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname =path.dirname(__filename)
 const router = express.Router()
-router.get('/',(req,res)=>{
-    res.status(200).json(businessData)
-})
+// router.get('/',(req,res)=>{
+//     res.status(200).json(businessData)
+// })
+router.get('/',businesController.getBusiness)
 router.get('/:id', (req, res) => {
     const id = parseInt(req.params.id);
     if (id >= 0 && id < businessData.length) {

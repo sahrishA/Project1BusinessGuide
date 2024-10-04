@@ -17,7 +17,7 @@ const renderBusinesses = async () => {
             detailCard.className = 'detail-card';  // Add PicoCSS card class
 
             const title = document.createElement('h3');
-            title.textContent = business.title;
+            title.textContent = business.tile;
             title.style.textAlign = 'center';
     
             const description = document.createElement('p');
@@ -30,7 +30,7 @@ const renderBusinesses = async () => {
 
             const image = document.createElement('img');
             image.src = business.image;
-            image.alt = `${business.title} Image`;
+            image.alt = `${business.tile} Image`;
             image.className = 'card-img';
             image.style.width = '400px'; // Decrease the size of the logo
             image.style.height = 'auto'; // Maintain aspect ratio
@@ -76,7 +76,7 @@ const renderBusinesses = async () => {
                 card.className = 'card';
         
                 const title = document.createElement('h3');
-                title.textContent = business.title;
+                title.textContent = business.tile;
                 title.style.textAlign = 'center';
         
                 const description = document.createElement('p');
@@ -89,7 +89,7 @@ const renderBusinesses = async () => {
         
                 const image = document.createElement('img');
                 image.src = business.image;
-                image.alt = `${business.title} Image`;
+                image.alt = `${business.tile} Image`;
                 image.className = 'card-img';
                 image.style.width = '400px'; // Decrease the size of the logo
                 image.style.height = 'auto'; // Maintain aspect ratio

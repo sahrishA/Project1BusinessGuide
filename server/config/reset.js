@@ -37,10 +37,10 @@ const createBusinessGuideTable = async () =>{
 const seedBusinessGuideTable=async () => {
     await createBusinessGuideTable();
     businessData.forEach(async(business) => {
-       const insertQuery =`INSERT INTO business (title, text, category, image, submitted_by)
+       const insertQuery =`INSERT INTO business (tile, text, category, image, submitted_by)
       VALUES ($1, $2, $3, $4, $5);`;
       const values =[
-        business.title,
+        business.tile,
         business.text,
         business.category,
         business.image,
@@ -48,7 +48,7 @@ const seedBusinessGuideTable=async () => {
       ];
       try{
         await pool.query(insertQuery,values);
-        console.log(`✅ ${business.title} added successfully`)
+        console.log(`✅ ${business.tile} added successfully`)
       }catch(err){
         console.error('⚠️ error inserting business:', err)
       };
