@@ -23,7 +23,7 @@ The following **required** functionality is completed:
 - [x ] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
 - [ X] **The web app is connected to a PostgreSQL database, with an appropriately structured database table for the list items**
 - [x ] **The PostgreSQL database includes a table that matches the data displayed in the web app**
-  - [ X] **NOTE: Your GIF or a screenshot added to the README must include a view of your Railway database that shows the contents of the table used by your app**
+- [ X] **NOTE: Your GIF or a screenshot added to the README must include a view of your Railway database that shows the contents of the table used by your app**
 
 The following **optional** features are implemented:
 
