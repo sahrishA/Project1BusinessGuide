@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 ---
 
 ## Video Walkthrough
-
+[![Video Walkthrough](<img width="497" alt="image" src="https://github.com/user-attachments/assets/c6f4b861-d83c-455b-98ae-afa2f7692325" />)](https://www.canva.com/design/DAGSo-LFzmc/Y8R6co5TEdehObprkcxXRA/watch)
 Here's a walkthrough of implemented required features:
 [![Video Walkthrough]<img width="497" alt="image" src="https://github.com/user-attachments/assets/c6f4b861-d83c-455b-98ae-afa2f7692325" />
 (https://www.canva.com/design/DAGSo-LFzmc/Y8R6co5TEdehObprkcxXRA/watch)
