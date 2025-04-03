@@ -37,6 +37,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+[![Video Walkthrough](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.canva.com/design/DAGSo-LFzmc/Y8R6co5TEdehObprkcxXRA/watch)
 
 <img <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
