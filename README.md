@@ -3,13 +3,13 @@
 Submitted by: **Sahrish Afzal**
 
 **Project Overview
-Who doesn't love a good list? In this project, you'll create a list-based web app that displays content of your choosing. 
-Is it an expose of shady companies, and how much they spend on lobbying? 👀 Is it a database of tips and tricks for young entrepreneurs? 
-💼 You'll create a web app that displays some interesting data in a list, building out a complete backend that serves static HTML, 
+- Who doesn't love a good list? In this project, you'll create a list-based web app that displays content of your choosing. 
+- Is it an expose of shady companies, and how much they spend on lobbying? 👀 Is it a database of tips and tricks for young entrepreneurs? 
+- 💼 You'll create a web app that displays some interesting data in a list, building out a complete backend that serves static HTML, 
 as well as a minimal frontend to serve the data. This app is Guide to Starting Your Business
-No matter what stage you are at opening up a business, we have a tutorial for you! Looking to brainstorm business ideas and find your niche?
-We can guide you in the right direction! Finding the right partner? Growing your team? Talking to suppliers?
-We have a short guide for each one of those. Our guides are sorted into different categories (including business models,
+- No matter what stage you are at opening up a business, we have a tutorial for you! Looking to brainstorm business ideas and find your niche?
+- We can guide you in the right direction! Finding the right partner? Growing your team? Talking to suppliers?
+- We have a short guide for each one of those. Our guides are sorted into different categories (including business models,
 product development, sales, market research, and funding) so you can browse or filter to personalize your experience.**
 
 Time spent: **15** hours
